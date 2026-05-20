@@ -22,4 +22,7 @@ ou conteúdos falsos
 * Ampliar a regulamentação, as regras a serem cumpridas por políticos/candidatos que divulgam 
 ou compartilham fake news, criadas por eles próprios ou por terceiros 
 * Responsabilizar, punir ou cassar políticos/candidatos que divulgam ou compartilham 
-postagens com notícias ou conteúdos falsos 
+postagens com notícias ou conteúdos falsos
+
+## Link para o vídeo de apresentação
+https://youtu.be/8TAOmodbdLs
